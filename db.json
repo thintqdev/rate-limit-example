@@ -1,0 +1,182 @@
+[
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc88"
+        },
+        "username": "quangthin1",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc89"
+        },
+        "username": "quangthin2",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8a"
+        },
+        "username": "quangthin3",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8b"
+        },
+        "username": "quangthin4",
+        "password": "123456",
+        "role": "Manager",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8c"
+        },
+        "username": "quangthin5",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8d"
+        },
+        "username": "quangthin6",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8e"
+        },
+        "username": "quangthin7",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc8f"
+        },
+        "username": "quangthin8",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc90"
+        },
+        "username": "quangthin9",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc91"
+        },
+        "username": "quangthin10",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc92"
+        },
+        "username": "quangthin11",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc93"
+        },
+        "username": "quangthin12",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc94"
+        },
+        "username": "quangthin13",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc95"
+        },
+        "username": "quangthin14",
+        "password": "123456",
+        "role": "Manager",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc96"
+        },
+        "username": "quangthin15",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc97"
+        },
+        "username": "quangthin16",
+        "password": "123456",
+        "role": "Manager",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc98"
+        },
+        "username": "quangthin17",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc99"
+        },
+        "username": "quangthin18",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc9a"
+        },
+        "username": "quangthin19",
+        "password": "123456",
+        "role": "Teacher",
+        "__v": 0
+    },
+    {
+        "_id": {
+            "$oid": "621ef1eb4f0c1e57c572fc9b"
+        },
+        "username": "quangthin20",
+        "password": "123456",
+        "role": "Student",
+        "__v": 0
+    }
+]
